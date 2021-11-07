@@ -1,0 +1,17 @@
+ {
+  "id": 2,
+  "first_name": "Aida",	
+  "email": "adattt@test.gov",
+  "gender": "Female",
+  "course" : [   
+            {
+                  "courseNo" : "CS",  
+                  "grade"  : "B",
+                  "creditHours" :4 
+             },
+             { 
+             	  "courseNo" : "CS12",  
+                  "grade"  : "A",
+                  "creditHours" : 4 }
+            ]
+}

@@ -1,0 +1,16 @@
+{
+  		"id": 3,
+  		"first_name": "Alex",
+  		"email": "Adavis@bccs.com",
+  		"gender": "Male",
+  		"course" : [   
+                	{ "courseNo" : "BS",  
+                   	  "grade"  : "B",
+                      "creditHours" : 3 
+                    },
+
+               		{ "courseNo" : "Hist",  
+                      "grade"  : "A",
+                      "creditHours" : 3 }
+            		]
+}

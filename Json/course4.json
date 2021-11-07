@@ -1,0 +1,4 @@
+{"id": 4,"first_name": "Meba","email": "mtravis@yahoo.com","gender": "Male","course" : [   
+                 { "courseNo" : "ENG","grade"  : "A", "creditHours" : 4 },
+                 { "courseNo" : "CS12","grade"  : "A","creditHours" : 4 }]
+}
